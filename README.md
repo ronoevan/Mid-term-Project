@@ -1,8 +1,9 @@
 # Exploratory Data Analyses and Data Visualization of 2016 ebay Car Sales in Germany 
 
-## Mid-term-Project For the Ironhack, Berlin By Evans and Festus
-## Dataset: Auto Sales ebay Germany Random 50k Cleaned!
-## Using Python and Business Inteligence
+## Mid-term-Project March 2023 For the Ironhack, Berlin
+## By Evans and Festus
+## Dataset: Auto Sales ebay Germany Random 50k!
+## Using Python and Business Intelligence
 
 
 ##  Table of Contents
