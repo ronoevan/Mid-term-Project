@@ -1,4 +1,5 @@
-# Data Exploration and Visualization of Car Sales on ebay ! [image-2.png](attachment:image-2.png)
+# Data Exploration and Visualization of Car Sales on ebay ! 
+[image-2.png](attachment:image-2.png)
 [Source of Picture]
 
 ## Mid-term-Project March 2023 For the Ironhack, Berlin
