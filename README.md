@@ -108,6 +108,33 @@ name: Name of the car.
 
 # Data Analytics and Conclusion
 
+       
+## Time Plan
+
+
+### Day 1
+1. Mon
+Presentation of project
+Data cleaning and EDA
+
+
+### Day 2
+2. Tue
+Investigate patterns between features
+
+
+### Day 3
+3. Wed
+Visualization with Tableau
+
+### Day 4
+4. Thur
+Presentation Preparation
+
+### Day 5
+5. Fri
+Presentation
+
 
 #  References
 https://www.kaggle.com/datasets/shaunoilund/auto-sales-ebay-germany-random-50k-cleaned
