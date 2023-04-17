@@ -1,4 +1,4 @@
-# Data Exploratory of Car Sales on ebay 
+# Data Exploration and Visualization of Car Sales on ebay 
 
 ## Mid-term-Project March 2023 For the Ironhack, Berlin
 ## By Evans and Festus
